@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Eli Juste Java</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="toppings_header">garnitures</string>
+    <string name="thank_you">Je vous remercie!</string>
+    <string name="email_subject">Juste pour Java pour </string>
+    <string name="name">nom: </string>
+    <string name="whipped_cream">Ajouter la crème fouettée</string>
+    <string name="chocolate">Ajouter le chocolat  </string>
+    <string name="caramel">caramel</string>
+    <string name="cinnamon">cannelle</string>
+    <string name="quantity">Quantité: </string>
+    <string name="price">Le total: </string>
+</resources>
